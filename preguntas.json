@@ -1,0 +1,3310 @@
+{
+  "Mundo": [
+    {
+      "nombre": "Tokyo, Japan",
+      "lat": 35.685,
+      "lon": 139.7514
+    },
+    {
+      "nombre": "Jakarta, Indonesia",
+      "lat": -6.1753,
+      "lon": 106.8269
+    },
+    {
+      "nombre": "Delhi, India",
+      "lat": 28.66,
+      "lon": 77.23
+    },
+    {
+      "nombre": "Chongqing, China",
+      "lat": 29.55,
+      "lon": 106.5069
+    },
+    {
+      "nombre": "Guangzhou, China",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    {
+      "nombre": "Mumbai, India",
+      "lat": 19.0758,
+      "lon": 72.8775
+    },
+    {
+      "nombre": "Manila, Philippines",
+      "lat": 14.5958,
+      "lon": 120.9772
+    },
+    {
+      "nombre": "Shanghai, China",
+      "lat": 31.2325,
+      "lon": 121.4692
+    },
+    {
+      "nombre": "São Paulo, Brazil",
+      "lat": -23.5504,
+      "lon": -46.6339
+    },
+    {
+      "nombre": "Seoul, Korea, South",
+      "lat": 37.56,
+      "lon": 126.99
+    },
+    {
+      "nombre": "Beijing, China",
+      "lat": 39.904,
+      "lon": 116.4075
+    },
+    {
+      "nombre": "Mexico City, Mexico",
+      "lat": 19.3538,
+      "lon": -99.1359
+    },
+    {
+      "nombre": "Kolkāta, India",
+      "lat": 22.5675,
+      "lon": 88.37
+    },
+    {
+      "nombre": "Chengdu, China",
+      "lat": 30.66,
+      "lon": 104.0633
+    },
+    {
+      "nombre": "Cairo, Egypt",
+      "lat": 30.0444,
+      "lon": 31.2358
+    },
+    {
+      "nombre": "Karachi, Pakistan",
+      "lat": 24.86,
+      "lon": 67.01
+    },
+    {
+      "nombre": "New York, United States",
+      "lat": 40.6943,
+      "lon": -73.9249
+    },
+    {
+      "nombre": "Dhaka, Bangladesh",
+      "lat": 23.7289,
+      "lon": 90.3944
+    },
+    {
+      "nombre": "Bangkok, Thailand",
+      "lat": 13.75,
+      "lon": 100.5167
+    },
+    {
+      "nombre": "Shenzhen, China",
+      "lat": 22.5467,
+      "lon": 114.0544
+    },
+    {
+      "nombre": "Moscow, Russia",
+      "lat": 55.7506,
+      "lon": 37.6175
+    },
+    {
+      "nombre": "Kinshasa, Congo (Kinshasa)",
+      "lat": -4.3233,
+      "lon": 15.3081
+    },
+    {
+      "nombre": "Buenos Aires, Argentina",
+      "lat": -34.5997,
+      "lon": -58.3819
+    },
+    {
+      "nombre": "Lagos, Nigeria",
+      "lat": 6.4561,
+      "lon": 3.3936
+    },
+    {
+      "nombre": "Istanbul, Turkey",
+      "lat": 41.01,
+      "lon": 28.9603
+    },
+    {
+      "nombre": "Ho Chi Minh City, Vietnam",
+      "lat": 10.7756,
+      "lon": 106.7019
+    },
+    {
+      "nombre": "Ōsaka, Japan",
+      "lat": 34.6938,
+      "lon": 135.5021
+    },
+    {
+      "nombre": "Tehran, Iran",
+      "lat": 35.6889,
+      "lon": 51.3897
+    },
+    {
+      "nombre": "Tianjin, China",
+      "lat": 39.1467,
+      "lon": 117.2056
+    },
+    {
+      "nombre": "Lahore, Pakistan",
+      "lat": 31.5497,
+      "lon": 74.3436
+    },
+    {
+      "nombre": "Suzhou, China",
+      "lat": 31.3,
+      "lon": 120.6194
+    },
+    {
+      "nombre": "Rio de Janeiro, Brazil",
+      "lat": -22.9111,
+      "lon": -43.2056
+    },
+    {
+      "nombre": "Wuhan, China",
+      "lat": 30.595,
+      "lon": 114.2975
+    },
+    {
+      "nombre": "Chennai, India",
+      "lat": 13.0825,
+      "lon": 80.275
+    },
+    {
+      "nombre": "Xi’an, China",
+      "lat": 34.2611,
+      "lon": 108.9422
+    },
+    {
+      "nombre": "Los Angeles, United States",
+      "lat": 34.1141,
+      "lon": -118.4068
+    },
+    {
+      "nombre": "Hangzhou, China",
+      "lat": 30.25,
+      "lon": 120.1675
+    },
+    {
+      "nombre": "Baoding, China",
+      "lat": 38.8671,
+      "lon": 115.4845
+    },
+    {
+      "nombre": "London, United Kingdom",
+      "lat": 51.5072,
+      "lon": -0.1275
+    },
+    {
+      "nombre": "Paris, France",
+      "lat": 48.8567,
+      "lon": 2.3522
+    },
+    {
+      "nombre": "Linyi, China",
+      "lat": 35.1041,
+      "lon": 118.3502
+    },
+    {
+      "nombre": "Dongguan, China",
+      "lat": 23.0475,
+      "lon": 113.7493
+    },
+    {
+      "nombre": "Harbin, China",
+      "lat": 45.75,
+      "lon": 126.6333
+    },
+    {
+      "nombre": "Hyderābād, India",
+      "lat": 17.3617,
+      "lon": 78.4747
+    },
+    {
+      "nombre": "Lima, Peru",
+      "lat": -12.06,
+      "lon": -77.0375
+    },
+    {
+      "nombre": "Bogotá, Colombia",
+      "lat": 4.6097,
+      "lon": -74.0817
+    },
+    {
+      "nombre": "Qingdao, China",
+      "lat": 36.1167,
+      "lon": 120.4
+    },
+    {
+      "nombre": "Nanyang, China",
+      "lat": 32.9987,
+      "lon": 112.5292
+    },
+    {
+      "nombre": "Foshan, China",
+      "lat": 23.0292,
+      "lon": 113.1056
+    },
+    {
+      "nombre": "Nanjing, China",
+      "lat": 32.0608,
+      "lon": 118.7789
+    },
+    {
+      "nombre": "Jinan, China",
+      "lat": 36.6667,
+      "lon": 116.9833
+    },
+    {
+      "nombre": "Nagoya, Japan",
+      "lat": 35.1814,
+      "lon": 136.9064
+    },
+    {
+      "nombre": "Tongshan, China",
+      "lat": 34.261,
+      "lon": 117.1859
+    },
+    {
+      "nombre": "Luanda, Angola",
+      "lat": -8.8383,
+      "lon": 13.2344
+    },
+    {
+      "nombre": "Zhoukou, China",
+      "lat": 33.625,
+      "lon": 114.6418
+    },
+    {
+      "nombre": "Ganzhou, China",
+      "lat": 25.8292,
+      "lon": 114.9336
+    },
+    {
+      "nombre": "Kuala Lumpur, Malaysia",
+      "lat": 3.1478,
+      "lon": 101.6953
+    },
+    {
+      "nombre": "Heze, China",
+      "lat": 35.2333,
+      "lon": 115.4333
+    },
+    {
+      "nombre": "Quanzhou, China",
+      "lat": 24.9139,
+      "lon": 118.5858
+    },
+    {
+      "nombre": "Hanoi, Vietnam",
+      "lat": 21.0245,
+      "lon": 105.8412
+    },
+    {
+      "nombre": "Chicago, United States",
+      "lat": 41.8375,
+      "lon": -87.6866
+    },
+    {
+      "nombre": "Bangalore, India",
+      "lat": 12.9791,
+      "lon": 77.5913
+    },
+    {
+      "nombre": "Jining, China",
+      "lat": 35.4,
+      "lon": 116.5667
+    },
+    {
+      "nombre": "Shenyang, China",
+      "lat": 41.8025,
+      "lon": 123.4281
+    },
+    {
+      "nombre": "Pune, India",
+      "lat": 18.5211,
+      "lon": 73.8553
+    },
+    {
+      "nombre": "Fuyang, China",
+      "lat": 32.8986,
+      "lon": 115.8045
+    },
+    {
+      "nombre": "Baghdad, Iraq",
+      "lat": 33.3153,
+      "lon": 44.3661
+    },
+    {
+      "nombre": "Ahmedabad, India",
+      "lat": 23.0219,
+      "lon": 72.5797
+    },
+    {
+      "nombre": "Dar es Salaam, Tanzania",
+      "lat": -6.8161,
+      "lon": 39.2803
+    },
+    {
+      "nombre": "Khartoum, Sudan",
+      "lat": 15.6031,
+      "lon": 32.5265
+    },
+    {
+      "nombre": "Shangqiu, China",
+      "lat": 34.4259,
+      "lon": 115.6467
+    },
+    {
+      "nombre": "Dalian, China",
+      "lat": 38.9,
+      "lon": 121.6
+    },
+    {
+      "nombre": "Hong Kong, Hong Kong",
+      "lat": 22.2783,
+      "lon": 114.1586
+    },
+    {
+      "nombre": "Cangzhou, China",
+      "lat": 38.3037,
+      "lon": 116.8452
+    },
+    {
+      "nombre": "Riyadh, Saudi Arabia",
+      "lat": 24.65,
+      "lon": 46.71
+    },
+    {
+      "nombre": "Bandung, Indonesia",
+      "lat": -6.9218,
+      "lon": 107.6071
+    },
+    {
+      "nombre": "Santiago, Chile",
+      "lat": -33.4375,
+      "lon": -70.65
+    },
+    {
+      "nombre": "Xingtai, China",
+      "lat": 37.0659,
+      "lon": 114.4753
+    },
+    {
+      "nombre": "Zhumadian, China",
+      "lat": 32.9773,
+      "lon": 114.0253
+    },
+    {
+      "nombre": "Zhanjiang, China",
+      "lat": 21.1967,
+      "lon": 110.4031
+    },
+    {
+      "nombre": "Bijie, China",
+      "lat": 27.3019,
+      "lon": 105.2863
+    },
+    {
+      "nombre": "Rangoon, Burma",
+      "lat": 16.8053,
+      "lon": 96.1561
+    },
+    {
+      "nombre": "Yancheng, China",
+      "lat": 33.35,
+      "lon": 120.1569
+    },
+    {
+      "nombre": "Hengyang, China",
+      "lat": 26.8968,
+      "lon": 112.5857
+    },
+    {
+      "nombre": "Zunyi, China",
+      "lat": 27.705,
+      "lon": 106.9336
+    },
+    {
+      "nombre": "Shaoyang, China",
+      "lat": 27.2418,
+      "lon": 111.4725
+    },
+    {
+      "nombre": "Surabaya, Indonesia",
+      "lat": -7.2463,
+      "lon": 112.7378
+    },
+    {
+      "nombre": "Sūrat, India",
+      "lat": 21.205,
+      "lon": 72.84
+    },
+    {
+      "nombre": "Shangrao, China",
+      "lat": 28.4419,
+      "lon": 117.9633
+    },
+    {
+      "nombre": "Miami, United States",
+      "lat": 25.784,
+      "lon": -80.2101
+    },
+    {
+      "nombre": "Huanggang, China",
+      "lat": 30.45,
+      "lon": 114.875
+    },
+    {
+      "nombre": "Maoming, China",
+      "lat": 21.6618,
+      "lon": 110.9178
+    },
+    {
+      "nombre": "Nangandao, China",
+      "lat": 35.2992,
+      "lon": 113.8851
+    },
+    {
+      "nombre": "Xinyang, China",
+      "lat": 32.1264,
+      "lon": 114.0672
+    },
+    {
+      "nombre": "Houston, United States",
+      "lat": 29.786,
+      "lon": -95.3885
+    },
+    {
+      "nombre": "Madrid, Spain",
+      "lat": 40.4169,
+      "lon": -3.7033
+    },
+    {
+      "nombre": "Singapore, Singapore",
+      "lat": 1.3,
+      "lon": 103.8
+    },
+    {
+      "nombre": "Dallas, United States",
+      "lat": 32.7935,
+      "lon": -96.7667
+    },
+    {
+      "nombre": "Prayagraj, India",
+      "lat": 25.45,
+      "lon": 81.85
+    },
+    {
+      "nombre": "Liaocheng, China",
+      "lat": 36.45,
+      "lon": 115.9833
+    },
+    {
+      "nombre": "Yulin, China",
+      "lat": 22.6293,
+      "lon": 110.1507
+    },
+    {
+      "nombre": "Changde, China",
+      "lat": 29.0397,
+      "lon": 111.6839
+    },
+    {
+      "nombre": "Ankara, Turkey",
+      "lat": 39.9358,
+      "lon": 32.8387
+    },
+    {
+      "nombre": "Yueyang, China",
+      "lat": 29.3647,
+      "lon": 113.1309
+    },
+    {
+      "nombre": "Philadelphia, United States",
+      "lat": 40.0077,
+      "lon": -75.1339
+    },
+    {
+      "nombre": "Douala, Cameroon",
+      "lat": 4.05,
+      "lon": 9.7
+    },
+    {
+      "nombre": "Qujing, China",
+      "lat": 25.5102,
+      "lon": 103.8029
+    },
+    {
+      "nombre": "Addis Ababa, Ethiopia",
+      "lat": 9.0358,
+      "lon": 38.7525
+    },
+    {
+      "nombre": "Pudong, China",
+      "lat": 31.2231,
+      "lon": 121.5397
+    },
+    {
+      "nombre": "Xiangyang, China",
+      "lat": 32.0654,
+      "lon": 112.1531
+    },
+    {
+      "nombre": "Toronto, Canada",
+      "lat": 43.7417,
+      "lon": -79.3733
+    },
+    {
+      "nombre": "Zhengzhou, China",
+      "lat": 34.7492,
+      "lon": 113.6605
+    },
+    {
+      "nombre": "Abidjan, Côte d’Ivoire",
+      "lat": 5.3364,
+      "lon": -4.0267
+    },
+    {
+      "nombre": "Dezhou, China",
+      "lat": 37.4513,
+      "lon": 116.3105
+    },
+    {
+      "nombre": "Nanchong, China",
+      "lat": 30.7991,
+      "lon": 106.0784
+    },
+    {
+      "nombre": "Saint Petersburg, Russia",
+      "lat": 59.95,
+      "lon": 30.3167
+    },
+    {
+      "nombre": "Jieyang, China",
+      "lat": 23.5533,
+      "lon": 116.3649
+    },
+    {
+      "nombre": "Yichun, China",
+      "lat": 27.8041,
+      "lon": 114.383
+    },
+    {
+      "nombre": "Nairobi, Kenya",
+      "lat": -1.2864,
+      "lon": 36.8172
+    },
+    {
+      "nombre": "Guadalajara, Mexico",
+      "lat": 20.6764,
+      "lon": -103.3422
+    },
+    {
+      "nombre": "Tai’an, China",
+      "lat": 36.2001,
+      "lon": 117.0809
+    },
+    {
+      "nombre": "Dazhou, China",
+      "lat": 31.2152,
+      "lon": 107.4947
+    },
+    {
+      "nombre": "Langfang, China",
+      "lat": 39.5196,
+      "lon": 116.7006
+    },
+    {
+      "nombre": "Sydney, Australia",
+      "lat": -33.8678,
+      "lon": 151.21
+    },
+    {
+      "nombre": "Alexandria, Egypt",
+      "lat": 31.1975,
+      "lon": 29.8925
+    },
+    {
+      "nombre": "Suihua, China",
+      "lat": 46.6384,
+      "lon": 126.9808
+    },
+    {
+      "nombre": "Qiqihar, China",
+      "lat": 47.3398,
+      "lon": 123.9512
+    },
+    {
+      "nombre": "Melbourne, Australia",
+      "lat": -37.8142,
+      "lon": 144.9631
+    },
+    {
+      "nombre": "Kabul, Afghanistan",
+      "lat": 34.5328,
+      "lon": 69.1658
+    },
+    {
+      "nombre": "Belo Horizonte, Brazil",
+      "lat": -19.9281,
+      "lon": -43.9419
+    },
+    {
+      "nombre": "Suzhou, China",
+      "lat": 33.6333,
+      "lon": 116.9683
+    },
+    {
+      "nombre": "Monterrey, Mexico",
+      "lat": 25.6844,
+      "lon": -100.3181
+    },
+    {
+      "nombre": "Dortmund, Germany",
+      "lat": 51.5139,
+      "lon": 7.4653
+    },
+    {
+      "nombre": "Atlanta, United States",
+      "lat": 33.7628,
+      "lon": -84.422
+    },
+    {
+      "nombre": "Yongzhou, China",
+      "lat": 26.4515,
+      "lon": 111.5953
+    },
+    {
+      "nombre": "Chattogram, Bangladesh",
+      "lat": 22.335,
+      "lon": 91.8325
+    },
+    {
+      "nombre": "Washington, United States",
+      "lat": 38.9047,
+      "lon": -77.0163
+    },
+    {
+      "nombre": "Kanpur, India",
+      "lat": 24.285,
+      "lon": 72.6933
+    },
+    {
+      "nombre": "Yuncheng, China",
+      "lat": 35.0304,
+      "lon": 110.998
+    },
+    {
+      "nombre": "Zhaotong, China",
+      "lat": 27.3328,
+      "lon": 103.7144
+    },
+    {
+      "nombre": "Guilin, China",
+      "lat": 25.2819,
+      "lon": 110.2864
+    },
+    {
+      "nombre": "Zhangzhou, China",
+      "lat": 24.5093,
+      "lon": 117.6612
+    },
+    {
+      "nombre": "Bozhou, China",
+      "lat": 33.8626,
+      "lon": 115.7742
+    },
+    {
+      "nombre": "Pingdingshan, China",
+      "lat": 33.735,
+      "lon": 113.2999
+    },
+    {
+      "nombre": "Suqian, China",
+      "lat": 33.9331,
+      "lon": 118.2831
+    },
+    {
+      "nombre": "Huaihua, China",
+      "lat": 27.5494,
+      "lon": 109.9592
+    },
+    {
+      "nombre": "Ji’an, China",
+      "lat": 27.1172,
+      "lon": 114.9793
+    },
+    {
+      "nombre": "Dubai, United Arab Emirates",
+      "lat": 25.2697,
+      "lon": 55.3094
+    },
+    {
+      "nombre": "Xiaoganzhan, China",
+      "lat": 30.9273,
+      "lon": 113.911
+    },
+    {
+      "nombre": "Jiujiang, China",
+      "lat": 29.7048,
+      "lon": 116.0021
+    },
+    {
+      "nombre": "Yibin, China",
+      "lat": 28.7596,
+      "lon": 104.64
+    },
+    {
+      "nombre": "Mianyang, China",
+      "lat": 31.4669,
+      "lon": 104.7385
+    },
+    {
+      "nombre": "Huanglongsi, China",
+      "lat": 34.795,
+      "lon": 114.345
+    },
+    {
+      "nombre": "Johannesburg, South Africa",
+      "lat": -26.2044,
+      "lon": 28.0416
+    },
+    {
+      "nombre": "Barcelona, Spain",
+      "lat": 41.3825,
+      "lon": 2.1769
+    },
+    {
+      "nombre": "Jiangmen, China",
+      "lat": 22.5833,
+      "lon": 113.0833
+    },
+    {
+      "nombre": "Cape Town, South Africa",
+      "lat": -33.9253,
+      "lon": 18.4239
+    },
+    {
+      "nombre": "Changsha, China",
+      "lat": 28.1987,
+      "lon": 112.9709
+    },
+    {
+      "nombre": "Chenzhou, China",
+      "lat": 25.7989,
+      "lon": 113.0267
+    },
+    {
+      "nombre": "Jeddah, Saudi Arabia",
+      "lat": 21.5428,
+      "lon": 39.1728
+    },
+    {
+      "nombre": "Weinan, China",
+      "lat": 34.4996,
+      "lon": 109.4684
+    },
+    {
+      "nombre": "Berlin, Germany",
+      "lat": 52.5167,
+      "lon": 13.3833
+    },
+    {
+      "nombre": "Xinpu, China",
+      "lat": 34.5906,
+      "lon": 119.1801
+    },
+    {
+      "nombre": "Kanpur, India",
+      "lat": 26.4725,
+      "lon": 80.3311
+    },
+    {
+      "nombre": "Yangzhou, China",
+      "lat": 32.3912,
+      "lon": 119.4363
+    },
+    {
+      "nombre": "Taizhou, China",
+      "lat": 32.4831,
+      "lon": 119.9
+    },
+    {
+      "nombre": "İzmir, Turkey",
+      "lat": 38.4127,
+      "lon": 27.1384
+    },
+    {
+      "nombre": "Belāhi, India",
+      "lat": 25.7167,
+      "lon": 86.4
+    },
+    {
+      "nombre": "Hengshui, China",
+      "lat": 37.7348,
+      "lon": 115.686
+    },
+    {
+      "nombre": "Giza, Egypt",
+      "lat": 29.987,
+      "lon": 31.2118
+    },
+    {
+      "nombre": "Boston, United States",
+      "lat": 42.3188,
+      "lon": -71.0852
+    },
+    {
+      "nombre": "Kunming, China",
+      "lat": 25.0433,
+      "lon": 102.7061
+    },
+    {
+      "nombre": "Yiyang, China",
+      "lat": 28.5833,
+      "lon": 112.3333
+    },
+    {
+      "nombre": "Guigang, China",
+      "lat": 23.1144,
+      "lon": 109.5944
+    },
+    {
+      "nombre": "Changchun, China",
+      "lat": 43.88,
+      "lon": 125.3228
+    },
+    {
+      "nombre": "Lu’an, China",
+      "lat": 31.7542,
+      "lon": 116.5078
+    },
+    {
+      "nombre": "Jiangguanchi, China",
+      "lat": 34.0244,
+      "lon": 113.8201
+    },
+    {
+      "nombre": "Meizhou, China",
+      "lat": 24.2998,
+      "lon": 116.1191
+    },
+    {
+      "nombre": "Kano, Nigeria",
+      "lat": 12.0022,
+      "lon": 8.592
+    },
+    {
+      "nombre": "Zhangjiakou, China",
+      "lat": 40.8108,
+      "lon": 114.8811
+    },
+    {
+      "nombre": "Chifeng, China",
+      "lat": 42.255,
+      "lon": 118.8825
+    },
+    {
+      "nombre": "Ürümqi, China",
+      "lat": 43.8225,
+      "lon": 87.6125
+    },
+    {
+      "nombre": "Shantou, China",
+      "lat": 23.3539,
+      "lon": 116.6822
+    },
+    {
+      "nombre": "Santo Domingo, Dominican Republic",
+      "lat": 18.4625,
+      "lon": -69.9361
+    },
+    {
+      "nombre": "Luzhou, China",
+      "lat": 28.8918,
+      "lon": 105.4409
+    },
+    {
+      "nombre": "Bamako, Mali",
+      "lat": 12.6458,
+      "lon": -7.9922
+    },
+    {
+      "nombre": "Hefei, China",
+      "lat": 31.8639,
+      "lon": 117.2808
+    },
+    {
+      "nombre": "Fortaleza, Brazil",
+      "lat": -3.7275,
+      "lon": -38.5275
+    },
+    {
+      "nombre": "Anqing, China",
+      "lat": 30.5,
+      "lon": 117.0333
+    },
+    {
+      "nombre": "Liuzhou, China",
+      "lat": 24.3264,
+      "lon": 109.4281
+    },
+    {
+      "nombre": "Zhaoqing, China",
+      "lat": 23.05,
+      "lon": 112.4667
+    },
+    {
+      "nombre": "Phoenix, United States",
+      "lat": 33.5722,
+      "lon": -112.0892
+    },
+    {
+      "nombre": "Shijiazhuang, China",
+      "lat": 38.0425,
+      "lon": 114.51
+    },
+    {
+      "nombre": "Ningbo, China",
+      "lat": 29.875,
+      "lon": 121.5492
+    },
+    {
+      "nombre": "Fuzhou, China",
+      "lat": 27.9814,
+      "lon": 116.3577
+    },
+    {
+      "nombre": "Zhuzhou, China",
+      "lat": 27.8407,
+      "lon": 113.1469
+    },
+    {
+      "nombre": "Xiaoxita, China",
+      "lat": 30.7083,
+      "lon": 111.2803
+    },
+    {
+      "nombre": "Amman, Jordan",
+      "lat": 31.95,
+      "lon": 35.9333
+    },
+    {
+      "nombre": "Chuzhou, China",
+      "lat": 32.3062,
+      "lon": 118.3115
+    },
+    {
+      "nombre": "Linfen, China",
+      "lat": 36.0812,
+      "lon": 111.5087
+    },
+    {
+      "nombre": "Qingyuan, China",
+      "lat": 23.6842,
+      "lon": 113.0507
+    },
+    {
+      "nombre": "Xianyang, China",
+      "lat": 34.3297,
+      "lon": 108.7092
+    },
+    {
+      "nombre": "Casablanca, Morocco",
+      "lat": 33.5992,
+      "lon": -7.62
+    },
+    {
+      "nombre": "Loudi, China",
+      "lat": 27.7378,
+      "lon": 111.9974
+    },
+    {
+      "nombre": "Kumasi, Ghana",
+      "lat": 6.7,
+      "lon": -1.625
+    },
+    {
+      "nombre": "Deyang, China",
+      "lat": 31.1289,
+      "lon": 104.395
+    },
+    {
+      "nombre": "Taiyuan, China",
+      "lat": 37.8733,
+      "lon": 112.5425
+    },
+    {
+      "nombre": "Ibadan, Nigeria",
+      "lat": 7.3775,
+      "lon": 3.9058
+    },
+    {
+      "nombre": "Zaozhuang, China",
+      "lat": 34.8667,
+      "lon": 117.55
+    },
+    {
+      "nombre": "Nanning, China",
+      "lat": 22.8192,
+      "lon": 108.315
+    },
+    {
+      "nombre": "Taichung, Taiwan",
+      "lat": 24.1439,
+      "lon": 120.6794
+    },
+    {
+      "nombre": "Detroit, United States",
+      "lat": 42.3834,
+      "lon": -83.1024
+    },
+    {
+      "nombre": "Puyang, China",
+      "lat": 35.7639,
+      "lon": 115.03
+    },
+    {
+      "nombre": "Abuja, Nigeria",
+      "lat": 9.0556,
+      "lon": 7.4914
+    },
+    {
+      "nombre": "Yokohama, Japan",
+      "lat": 35.4333,
+      "lon": 139.65
+    },
+    {
+      "nombre": "Xiamen, China",
+      "lat": 24.4797,
+      "lon": 118.0819
+    },
+    {
+      "nombre": "Neijiang, China",
+      "lat": 29.5872,
+      "lon": 105.0635
+    },
+    {
+      "nombre": "Montréal, Canada",
+      "lat": 45.5089,
+      "lon": -73.5617
+    },
+    {
+      "nombre": "Fuzhou, China",
+      "lat": 26.0769,
+      "lon": 119.2917
+    },
+    {
+      "nombre": "Baicheng, China",
+      "lat": 23.901,
+      "lon": 106.6194
+    },
+    {
+      "nombre": "Wuhu, China",
+      "lat": 31.334,
+      "lon": 118.3622
+    },
+    {
+      "nombre": "Seattle, United States",
+      "lat": 47.6211,
+      "lon": -122.3244
+    },
+    {
+      "nombre": "Medan, Indonesia",
+      "lat": 3.5894,
+      "lon": 98.6739
+    },
+    {
+      "nombre": "Yulinshi, China",
+      "lat": 38.2655,
+      "lon": 109.7388
+    },
+    {
+      "nombre": "Wenzhou, China",
+      "lat": 27.9991,
+      "lon": 120.6561
+    },
+    {
+      "nombre": "Changzhou, China",
+      "lat": 31.8122,
+      "lon": 119.9692
+    },
+    {
+      "nombre": "Jiaozuo, China",
+      "lat": 35.229,
+      "lon": 113.2304
+    },
+    {
+      "nombre": "Nanchang, China",
+      "lat": 28.6842,
+      "lon": 115.8872
+    },
+    {
+      "nombre": "Cologne, Germany",
+      "lat": 50.9422,
+      "lon": 6.9578
+    },
+    {
+      "nombre": "Vadodara, India",
+      "lat": 22.3,
+      "lon": 73.2
+    },
+    {
+      "nombre": "Nādampālaiyam, India",
+      "lat": 11.1793,
+      "lon": 77.376
+    },
+    {
+      "nombre": "Busan, Korea, South",
+      "lat": 35.18,
+      "lon": 129.075
+    },
+    {
+      "nombre": "Hohhot, China",
+      "lat": 40.8151,
+      "lon": 111.6629
+    },
+    {
+      "nombre": "San Francisco, United States",
+      "lat": 37.7558,
+      "lon": -122.4449
+    },
+    {
+      "nombre": "Tangshan, China",
+      "lat": 39.6294,
+      "lon": 118.1739
+    },
+    {
+      "nombre": "Shiyan, China",
+      "lat": 32.6351,
+      "lon": 110.7755
+    },
+    {
+      "nombre": "Siping, China",
+      "lat": 43.1715,
+      "lon": 124.3644
+    },
+    {
+      "nombre": "Lucknow, India",
+      "lat": 26.847,
+      "lon": 80.947
+    },
+    {
+      "nombre": "Lembok, Indonesia",
+      "lat": -8.6312,
+      "lon": 116.3176
+    },
+    {
+      "nombre": "Changzhi, China",
+      "lat": 36.1953,
+      "lon": 113.097
+    },
+    {
+      "nombre": "Anshan, China",
+      "lat": 41.1066,
+      "lon": 122.9895
+    },
+    {
+      "nombre": "Guozhen, China",
+      "lat": 34.3659,
+      "lon": 107.359
+    },
+    {
+      "nombre": "Baojishi, China",
+      "lat": 34.3609,
+      "lon": 107.1751
+    },
+    {
+      "nombre": "Mashhad, Iran",
+      "lat": 36.2975,
+      "lon": 59.6059
+    },
+    {
+      "nombre": "Qinzhou, China",
+      "lat": 21.95,
+      "lon": 108.6167
+    },
+    {
+      "nombre": "Guiyang, China",
+      "lat": 26.5794,
+      "lon": 106.7078
+    },
+    {
+      "nombre": "Tongren, China",
+      "lat": 27.7233,
+      "lon": 109.1885
+    },
+    {
+      "nombre": "Bengbu, China",
+      "lat": 32.9354,
+      "lon": 117.3531
+    },
+    {
+      "nombre": "Bazhou, China",
+      "lat": 31.8576,
+      "lon": 106.7559
+    },
+    {
+      "nombre": "Suining, China",
+      "lat": 30.5098,
+      "lon": 105.5737
+    },
+    {
+      "nombre": "Wuxi, China",
+      "lat": 31.5667,
+      "lon": 120.2833
+    },
+    {
+      "nombre": "Kannankulam, India",
+      "lat": 10.4799,
+      "lon": 76.1131
+    },
+    {
+      "nombre": "Leshan, China",
+      "lat": 29.5854,
+      "lon": 103.7575
+    },
+    {
+      "nombre": "Hanzhong, China",
+      "lat": 33.0794,
+      "lon": 107.026
+    },
+    {
+      "nombre": "Putian, China",
+      "lat": 25.4394,
+      "lon": 119.0103
+    },
+    {
+      "nombre": "Zhenjiang, China",
+      "lat": 32.2109,
+      "lon": 119.4551
+    },
+    {
+      "nombre": "Cần Thơ, Vietnam",
+      "lat": 10.1547,
+      "lon": 105.5005
+    },
+    {
+      "nombre": "Faisalabad, Pakistan",
+      "lat": 31.418,
+      "lon": 73.079
+    },
+    {
+      "nombre": "Mahuākherāganj, India",
+      "lat": 29.13,
+      "lon": 78.95
+    },
+    {
+      "nombre": "Nagla, India",
+      "lat": 29.01,
+      "lon": 79.51
+    },
+    {
+      "nombre": "Santa Cruz de la Sierra, Bolivia",
+      "lat": -17.7892,
+      "lon": -63.1975
+    },
+    {
+      "nombre": "Ningde, China",
+      "lat": 26.6617,
+      "lon": 119.5228
+    },
+    {
+      "nombre": "Tongliao, China",
+      "lat": 43.6172,
+      "lon": 122.264
+    },
+    {
+      "nombre": "Qinhuangdao, China",
+      "lat": 39.9398,
+      "lon": 119.5881
+    },
+    {
+      "nombre": "Jinzhou, China",
+      "lat": 41.1144,
+      "lon": 121.1292
+    },
+    {
+      "nombre": "Guayaquil, Ecuador",
+      "lat": -2.19,
+      "lon": -79.8875
+    },
+    {
+      "nombre": "Heyuan, China",
+      "lat": 23.7503,
+      "lon": 114.6923
+    },
+    {
+      "nombre": "Quezon City, Philippines",
+      "lat": 14.65,
+      "lon": 121.0475
+    },
+    {
+      "nombre": "Jaipur, India",
+      "lat": 26.915,
+      "lon": 75.82
+    },
+    {
+      "nombre": "Budapest, Hungary",
+      "lat": 47.4983,
+      "lon": 19.0408
+    },
+    {
+      "nombre": "Xinzhou, China",
+      "lat": 38.4178,
+      "lon": 112.7233
+    },
+    {
+      "nombre": "Lanzhou, China",
+      "lat": 36.0617,
+      "lon": 103.8318
+    },
+    {
+      "nombre": "San Diego, United States",
+      "lat": 32.8313,
+      "lon": -117.1222
+    },
+    {
+      "nombre": "Ouagadougou, Burkina Faso",
+      "lat": 12.3686,
+      "lon": -1.5275
+    },
+    {
+      "nombre": "Wuzhou, China",
+      "lat": 23.4833,
+      "lon": 111.3167
+    },
+    {
+      "nombre": "Athens, Greece",
+      "lat": 37.9842,
+      "lon": 23.7281
+    },
+    {
+      "nombre": "Incheon, Korea, South",
+      "lat": 37.4639,
+      "lon": 126.6486
+    },
+    {
+      "nombre": "Chaoyang, China",
+      "lat": 41.5757,
+      "lon": 120.4486
+    },
+    {
+      "nombre": "Huainan, China",
+      "lat": 32.4831,
+      "lon": 117.0164
+    },
+    {
+      "nombre": "Algiers, Algeria",
+      "lat": 36.7764,
+      "lon": 3.0586
+    },
+    {
+      "nombre": "Shaoguan, China",
+      "lat": 24.8011,
+      "lon": 113.5927
+    },
+    {
+      "nombre": "Brasília, Brazil",
+      "lat": -15.7939,
+      "lon": -47.8828
+    },
+    {
+      "nombre": "Kuwait City, Kuwait",
+      "lat": 29.375,
+      "lon": 47.98
+    },
+    {
+      "nombre": "Qincheng, China",
+      "lat": 34.5809,
+      "lon": 105.7311
+    },
+    {
+      "nombre": "Rizhao, China",
+      "lat": 35.4164,
+      "lon": 119.4331
+    },
+    {
+      "nombre": "Tampa, United States",
+      "lat": 27.9945,
+      "lon": -82.4447
+    },
+    {
+      "nombre": "Sanaa, Yemen",
+      "lat": 15.35,
+      "lon": 44.2
+    },
+    {
+      "nombre": "Tashkent, Uzbekistan",
+      "lat": 41.3111,
+      "lon": 69.2797
+    },
+    {
+      "nombre": "Meishan, China",
+      "lat": 30.0575,
+      "lon": 103.8381
+    },
+    {
+      "nombre": "Kyiv, Ukraine",
+      "lat": 50.45,
+      "lon": 30.5236
+    },
+    {
+      "nombre": "Kottārasshēri, India",
+      "lat": 10.6167,
+      "lon": 76.5333
+    },
+    {
+      "nombre": "Minneapolis, United States",
+      "lat": 44.9635,
+      "lon": -93.2678
+    },
+    {
+      "nombre": "Cali, Colombia",
+      "lat": 3.44,
+      "lon": -76.5197
+    },
+    {
+      "nombre": "Port-au-Prince, Haiti",
+      "lat": 18.5469,
+      "lon": -72.3403
+    },
+    {
+      "nombre": "Zhongshan, China",
+      "lat": 22.5333,
+      "lon": 113.35
+    },
+    {
+      "nombre": "Weihai, China",
+      "lat": 37.5,
+      "lon": 122.1
+    },
+    {
+      "nombre": "Daqing, China",
+      "lat": 46.5979,
+      "lon": 125.008
+    },
+    {
+      "nombre": "Bursa, Turkey",
+      "lat": 40.1913,
+      "lon": 29.0805
+    },
+    {
+      "nombre": "Mbuji-Mayi, Congo (Kinshasa)",
+      "lat": -6.1209,
+      "lon": 23.5967
+    },
+    {
+      "nombre": "Haikou, China",
+      "lat": 20.02,
+      "lon": 110.32
+    }
+  ],
+  "EEUU": [
+    {
+      "nombre": "New York, United States",
+      "lat": 40.6943,
+      "lon": -73.9249
+    },
+    {
+      "nombre": "Los Angeles, United States",
+      "lat": 34.1141,
+      "lon": -118.4068
+    },
+    {
+      "nombre": "Chicago, United States",
+      "lat": 41.8375,
+      "lon": -87.6866
+    },
+    {
+      "nombre": "Miami, United States",
+      "lat": 25.784,
+      "lon": -80.2101
+    },
+    {
+      "nombre": "Houston, United States",
+      "lat": 29.786,
+      "lon": -95.3885
+    },
+    {
+      "nombre": "Dallas, United States",
+      "lat": 32.7935,
+      "lon": -96.7667
+    },
+    {
+      "nombre": "Philadelphia, United States",
+      "lat": 40.0077,
+      "lon": -75.1339
+    },
+    {
+      "nombre": "Atlanta, United States",
+      "lat": 33.7628,
+      "lon": -84.422
+    },
+    {
+      "nombre": "Washington, United States",
+      "lat": 38.9047,
+      "lon": -77.0163
+    },
+    {
+      "nombre": "Boston, United States",
+      "lat": 42.3188,
+      "lon": -71.0852
+    },
+    {
+      "nombre": "Phoenix, United States",
+      "lat": 33.5722,
+      "lon": -112.0892
+    },
+    {
+      "nombre": "Detroit, United States",
+      "lat": 42.3834,
+      "lon": -83.1024
+    },
+    {
+      "nombre": "Seattle, United States",
+      "lat": 47.6211,
+      "lon": -122.3244
+    },
+    {
+      "nombre": "San Francisco, United States",
+      "lat": 37.7558,
+      "lon": -122.4449
+    },
+    {
+      "nombre": "San Diego, United States",
+      "lat": 32.8313,
+      "lon": -117.1222
+    },
+    {
+      "nombre": "Tampa, United States",
+      "lat": 27.9945,
+      "lon": -82.4447
+    },
+    {
+      "nombre": "Minneapolis, United States",
+      "lat": 44.9635,
+      "lon": -93.2678
+    },
+    {
+      "nombre": "Brooklyn, United States",
+      "lat": 40.6501,
+      "lon": -73.9496
+    },
+    {
+      "nombre": "Denver, United States",
+      "lat": 39.762,
+      "lon": -104.8758
+    },
+    {
+      "nombre": "Queens, United States",
+      "lat": 40.7498,
+      "lon": -73.7976
+    },
+    {
+      "nombre": "Riverside, United States",
+      "lat": 33.9381,
+      "lon": -117.3949
+    },
+    {
+      "nombre": "Las Vegas, United States",
+      "lat": 36.2333,
+      "lon": -115.2654
+    },
+    {
+      "nombre": "Baltimore, United States",
+      "lat": 39.3051,
+      "lon": -76.6144
+    },
+    {
+      "nombre": "St. Louis, United States",
+      "lat": 38.6359,
+      "lon": -90.2451
+    },
+    {
+      "nombre": "Portland, United States",
+      "lat": 45.5371,
+      "lon": -122.65
+    },
+    {
+      "nombre": "San Antonio, United States",
+      "lat": 29.4632,
+      "lon": -98.5238
+    },
+    {
+      "nombre": "Sacramento, United States",
+      "lat": 38.5677,
+      "lon": -121.4685
+    },
+    {
+      "nombre": "Orlando, United States",
+      "lat": 28.4773,
+      "lon": -81.337
+    },
+    {
+      "nombre": "Austin, United States",
+      "lat": 30.3005,
+      "lon": -97.7522
+    },
+    {
+      "nombre": "San Jose, United States",
+      "lat": 37.3012,
+      "lon": -121.848
+    },
+    {
+      "nombre": "Indianapolis, United States",
+      "lat": 39.7771,
+      "lon": -86.1458
+    },
+    {
+      "nombre": "Pittsburgh, United States",
+      "lat": 40.4397,
+      "lon": -79.9763
+    },
+    {
+      "nombre": "Cincinnati, United States",
+      "lat": 39.1413,
+      "lon": -84.506
+    },
+    {
+      "nombre": "Kansas City, United States",
+      "lat": 39.1238,
+      "lon": -94.5541
+    },
+    {
+      "nombre": "Cleveland, United States",
+      "lat": 41.4764,
+      "lon": -81.6805
+    },
+    {
+      "nombre": "Manhattan, United States",
+      "lat": 40.7834,
+      "lon": -73.9662
+    },
+    {
+      "nombre": "Columbus, United States",
+      "lat": 39.9862,
+      "lon": -82.9855
+    },
+    {
+      "nombre": "Charlotte, United States",
+      "lat": 35.2083,
+      "lon": -80.8303
+    },
+    {
+      "nombre": "Bronx, United States",
+      "lat": 40.8501,
+      "lon": -73.8662
+    },
+    {
+      "nombre": "Virginia Beach, United States",
+      "lat": 36.7335,
+      "lon": -76.0435
+    },
+    {
+      "nombre": "Jacksonville, United States",
+      "lat": 30.3322,
+      "lon": -81.6749
+    },
+    {
+      "nombre": "Providence, United States",
+      "lat": 41.823,
+      "lon": -71.4187
+    },
+    {
+      "nombre": "Milwaukee, United States",
+      "lat": 43.0642,
+      "lon": -87.9675
+    },
+    {
+      "nombre": "Nashville, United States",
+      "lat": 36.1715,
+      "lon": -86.7842
+    },
+    {
+      "nombre": "Salt Lake City, United States",
+      "lat": 40.7776,
+      "lon": -111.9311
+    },
+    {
+      "nombre": "Raleigh, United States",
+      "lat": 35.8324,
+      "lon": -78.6429
+    },
+    {
+      "nombre": "Richmond, United States",
+      "lat": 37.5295,
+      "lon": -77.4756
+    },
+    {
+      "nombre": "Memphis, United States",
+      "lat": 35.1087,
+      "lon": -89.9663
+    },
+    {
+      "nombre": "Oklahoma City, United States",
+      "lat": 35.4676,
+      "lon": -97.5136
+    },
+    {
+      "nombre": "Hartford, United States",
+      "lat": 41.7661,
+      "lon": -72.6834
+    },
+    {
+      "nombre": "Louisville, United States",
+      "lat": 38.1663,
+      "lon": -85.6485
+    },
+    {
+      "nombre": "Fort Worth, United States",
+      "lat": 32.7817,
+      "lon": -97.3474
+    },
+    {
+      "nombre": "Bridgeport, United States",
+      "lat": 41.1918,
+      "lon": -73.1954
+    },
+    {
+      "nombre": "Buffalo, United States",
+      "lat": 42.9018,
+      "lon": -78.8487
+    },
+    {
+      "nombre": "New Orleans, United States",
+      "lat": 30.0687,
+      "lon": -89.9288
+    },
+    {
+      "nombre": "Tucson, United States",
+      "lat": 32.1541,
+      "lon": -110.8787
+    },
+    {
+      "nombre": "El Paso, United States",
+      "lat": 31.8476,
+      "lon": -106.43
+    },
+    {
+      "nombre": "Omaha, United States",
+      "lat": 41.2627,
+      "lon": -96.0529
+    },
+    {
+      "nombre": "McAllen, United States",
+      "lat": 26.2252,
+      "lon": -98.2467
+    },
+    {
+      "nombre": "Hempstead, United States",
+      "lat": 40.6629,
+      "lon": -73.6089
+    },
+    {
+      "nombre": "Birmingham, United States",
+      "lat": 33.5279,
+      "lon": -86.7971
+    },
+    {
+      "nombre": "Albuquerque, United States",
+      "lat": 35.1054,
+      "lon": -106.6465
+    },
+    {
+      "nombre": "Tulsa, United States",
+      "lat": 36.1283,
+      "lon": -95.9042
+    },
+    {
+      "nombre": "Charleston, United States",
+      "lat": 32.8168,
+      "lon": -79.9687
+    },
+    {
+      "nombre": "Fresno, United States",
+      "lat": 36.783,
+      "lon": -119.7939
+    },
+    {
+      "nombre": "Rochester, United States",
+      "lat": 43.168,
+      "lon": -77.6162
+    },
+    {
+      "nombre": "Cape Coral, United States",
+      "lat": 26.6443,
+      "lon": -81.9957
+    },
+    {
+      "nombre": "Dayton, United States",
+      "lat": 39.7805,
+      "lon": -84.2003
+    },
+    {
+      "nombre": "Baton Rouge, United States",
+      "lat": 30.442,
+      "lon": -91.1311
+    },
+    {
+      "nombre": "Mission Viejo, United States",
+      "lat": 33.6096,
+      "lon": -117.6551
+    },
+    {
+      "nombre": "Allentown, United States",
+      "lat": 40.5961,
+      "lon": -75.4756
+    },
+    {
+      "nombre": "Colorado Springs, United States",
+      "lat": 38.8674,
+      "lon": -104.7605
+    },
+    {
+      "nombre": "Provo, United States",
+      "lat": 40.2457,
+      "lon": -111.6457
+    },
+    {
+      "nombre": "Ogden, United States",
+      "lat": 41.2279,
+      "lon": -111.9682
+    },
+    {
+      "nombre": "Knoxville, United States",
+      "lat": 35.9692,
+      "lon": -83.9496
+    },
+    {
+      "nombre": "Grand Rapids, United States",
+      "lat": 42.9619,
+      "lon": -85.6562
+    },
+    {
+      "nombre": "Columbia, United States",
+      "lat": 34.0378,
+      "lon": -80.9036
+    },
+    {
+      "nombre": "Albany, United States",
+      "lat": 42.6664,
+      "lon": -73.7987
+    },
+    {
+      "nombre": "Des Moines, United States",
+      "lat": 41.5725,
+      "lon": -93.6105
+    },
+    {
+      "nombre": "New Haven, United States",
+      "lat": 41.3113,
+      "lon": -72.9246
+    },
+    {
+      "nombre": "Bakersfield, United States",
+      "lat": 35.3529,
+      "lon": -119.0359
+    },
+    {
+      "nombre": "Palm Bay, United States",
+      "lat": 27.9631,
+      "lon": -80.6593
+    },
+    {
+      "nombre": "Akron, United States",
+      "lat": 41.0798,
+      "lon": -81.5219
+    },
+    {
+      "nombre": "Concord, United States",
+      "lat": 37.9722,
+      "lon": -122.0016
+    },
+    {
+      "nombre": "Wichita, United States",
+      "lat": 37.6895,
+      "lon": -97.3443
+    },
+    {
+      "nombre": "Mesa, United States",
+      "lat": 33.4015,
+      "lon": -111.7178
+    },
+    {
+      "nombre": "Harrisburg, United States",
+      "lat": 40.2752,
+      "lon": -76.8843
+    },
+    {
+      "nombre": "Worcester, United States",
+      "lat": 42.2705,
+      "lon": -71.8079
+    },
+    {
+      "nombre": "Staten Island, United States",
+      "lat": 40.5834,
+      "lon": -74.1496
+    },
+    {
+      "nombre": "Toledo, United States",
+      "lat": 41.6638,
+      "lon": -83.5827
+    },
+    {
+      "nombre": "Port St. Lucie, United States",
+      "lat": 27.2796,
+      "lon": -80.3884
+    },
+    {
+      "nombre": "Brookhaven, United States",
+      "lat": 40.832,
+      "lon": -72.9517
+    },
+    {
+      "nombre": "Madison, United States",
+      "lat": 43.0822,
+      "lon": -89.393
+    },
+    {
+      "nombre": "Kissimmee, United States",
+      "lat": 28.3041,
+      "lon": -81.4169
+    },
+    {
+      "nombre": "Reno, United States",
+      "lat": 39.5497,
+      "lon": -119.8483
+    },
+    {
+      "nombre": "Little Rock, United States",
+      "lat": 34.7256,
+      "lon": -92.3577
+    },
+    {
+      "nombre": "Denton, United States",
+      "lat": 33.2175,
+      "lon": -97.1418
+    },
+    {
+      "nombre": "Spokane, United States",
+      "lat": 47.6671,
+      "lon": -117.433
+    },
+    {
+      "nombre": "Long Beach, United States",
+      "lat": 33.7977,
+      "lon": -118.167
+    },
+    {
+      "nombre": "Bonita Springs, United States",
+      "lat": 26.3558,
+      "lon": -81.7859
+    }
+  ],
+  "Europa": [
+    {
+      "nombre": "London, United Kingdom",
+      "lat": 51.5072,
+      "lon": -0.1275
+    },
+    {
+      "nombre": "Paris, France",
+      "lat": 48.8567,
+      "lon": 2.3522
+    },
+    {
+      "nombre": "Madrid, Spain",
+      "lat": 40.4169,
+      "lon": -3.7033
+    },
+    {
+      "nombre": "Dortmund, Germany",
+      "lat": 51.5139,
+      "lon": 7.4653
+    },
+    {
+      "nombre": "Barcelona, Spain",
+      "lat": 41.3825,
+      "lon": 2.1769
+    },
+    {
+      "nombre": "Berlin, Germany",
+      "lat": 52.5167,
+      "lon": 13.3833
+    },
+    {
+      "nombre": "Cologne, Germany",
+      "lat": 50.9422,
+      "lon": 6.9578
+    },
+    {
+      "nombre": "Budapest, Hungary",
+      "lat": 47.4983,
+      "lon": 19.0408
+    },
+    {
+      "nombre": "Athens, Greece",
+      "lat": 37.9842,
+      "lon": 23.7281
+    },
+    {
+      "nombre": "Stuttgart, Germany",
+      "lat": 48.7775,
+      "lon": 9.18
+    },
+    {
+      "nombre": "Rome, Italy",
+      "lat": 41.8931,
+      "lon": 12.4828
+    },
+    {
+      "nombre": "Munich, Germany",
+      "lat": 48.1375,
+      "lon": 11.575
+    },
+    {
+      "nombre": "Birmingham, United Kingdom",
+      "lat": 52.48,
+      "lon": -1.9025
+    },
+    {
+      "nombre": "Hamburg, Germany",
+      "lat": 53.55,
+      "lon": 10.0
+    },
+    {
+      "nombre": "Bucharest, Romania",
+      "lat": 44.4134,
+      "lon": 26.0978
+    },
+    {
+      "nombre": "Frankfurt, Germany",
+      "lat": 50.1106,
+      "lon": 8.6822
+    },
+    {
+      "nombre": "Vienna, Austria",
+      "lat": 48.2083,
+      "lon": 16.3725
+    },
+    {
+      "nombre": "Warsaw, Poland",
+      "lat": 52.23,
+      "lon": 21.0111
+    },
+    {
+      "nombre": "Lyon, France",
+      "lat": 45.7675,
+      "lon": 4.835
+    },
+    {
+      "nombre": "Marseille, France",
+      "lat": 43.2967,
+      "lon": 5.3764
+    },
+    {
+      "nombre": "Valencia, Spain",
+      "lat": 39.47,
+      "lon": -0.3764
+    },
+    {
+      "nombre": "Dublin, Ireland",
+      "lat": 53.3497,
+      "lon": -6.2603
+    },
+    {
+      "nombre": "Amsterdam, Netherlands",
+      "lat": 52.3667,
+      "lon": 4.8833
+    },
+    {
+      "nombre": "Prague, Czechia",
+      "lat": 50.0875,
+      "lon": 14.4214
+    },
+    {
+      "nombre": "Copenhagen, Denmark",
+      "lat": 55.6761,
+      "lon": 12.5689
+    },
+    {
+      "nombre": "Porto, Portugal",
+      "lat": 41.15,
+      "lon": -8.6108
+    },
+    {
+      "nombre": "Nuremberg, Germany",
+      "lat": 49.4539,
+      "lon": 11.0775
+    },
+    {
+      "nombre": "Helsinki, Finland",
+      "lat": 60.1708,
+      "lon": 24.9375
+    },
+    {
+      "nombre": "Milan, Italy",
+      "lat": 45.4669,
+      "lon": 9.19
+    },
+    {
+      "nombre": "Brussels, Belgium",
+      "lat": 50.8333,
+      "lon": 4.3333
+    },
+    {
+      "nombre": "Oslo, Norway",
+      "lat": 59.9133,
+      "lon": 10.7389
+    },
+    {
+      "nombre": "Sevilla, Spain",
+      "lat": 37.3886,
+      "lon": -5.9956
+    },
+    {
+      "nombre": "Toulouse, France",
+      "lat": 43.6044,
+      "lon": 1.4433
+    },
+    {
+      "nombre": "Lille, France",
+      "lat": 50.6319,
+      "lon": 3.0575
+    },
+    {
+      "nombre": "Rotterdam, Netherlands",
+      "lat": 51.92,
+      "lon": 4.48
+    },
+    {
+      "nombre": "Stockholm, Sweden",
+      "lat": 59.3275,
+      "lon": 18.0547
+    },
+    {
+      "nombre": "Bordeaux, France",
+      "lat": 44.8379,
+      "lon": -0.5795
+    },
+    {
+      "nombre": "Nice, France",
+      "lat": 43.7019,
+      "lon": 7.2683
+    },
+    {
+      "nombre": "Naples, Italy",
+      "lat": 40.8358,
+      "lon": 14.2486
+    },
+    {
+      "nombre": "Portsmouth, United Kingdom",
+      "lat": 50.8058,
+      "lon": -1.0872
+    },
+    {
+      "nombre": "Southampton, United Kingdom",
+      "lat": 50.9025,
+      "lon": -1.4042
+    },
+    {
+      "nombre": "Turin, Italy",
+      "lat": 45.0792,
+      "lon": 7.6761
+    },
+    {
+      "nombre": "Kraków, Poland",
+      "lat": 50.0614,
+      "lon": 19.9372
+    },
+    {
+      "nombre": "Thessaloníki, Greece",
+      "lat": 40.6403,
+      "lon": 22.9356
+    },
+    {
+      "nombre": "Dresden, Germany",
+      "lat": 51.0493,
+      "lon": 13.7381
+    },
+    {
+      "nombre": "Bilbao, Spain",
+      "lat": 43.2631,
+      "lon": -2.935
+    },
+    {
+      "nombre": "Zaragoza, Spain",
+      "lat": 41.65,
+      "lon": -0.8833
+    },
+    {
+      "nombre": "Bristol, United Kingdom",
+      "lat": 51.4536,
+      "lon": -2.5975
+    },
+    {
+      "nombre": "Nantes, France",
+      "lat": 47.2172,
+      "lon": -1.5539
+    },
+    {
+      "nombre": "Gothenburg, Sweden",
+      "lat": 57.7075,
+      "lon": 11.9675
+    },
+    {
+      "nombre": "Wrocław, Poland",
+      "lat": 51.11,
+      "lon": 17.0325
+    },
+    {
+      "nombre": "Murcia, Spain",
+      "lat": 37.9833,
+      "lon": -1.1303
+    },
+    {
+      "nombre": "Łódź, Poland",
+      "lat": 51.75,
+      "lon": 19.4667
+    },
+    {
+      "nombre": "Las Palmas, Spain",
+      "lat": 28.0997,
+      "lon": -15.4133
+    },
+    {
+      "nombre": "Düsseldorf, Germany",
+      "lat": 51.2256,
+      "lon": 6.7767
+    },
+    {
+      "nombre": "Palermo, Italy",
+      "lat": 38.1157,
+      "lon": 13.3613
+    },
+    {
+      "nombre": "Glasgow, United Kingdom",
+      "lat": 55.8611,
+      "lon": -4.25
+    },
+    {
+      "nombre": "Leipzig, Germany",
+      "lat": 51.3394,
+      "lon": 12.3711
+    },
+    {
+      "nombre": "Wuppertal, Germany",
+      "lat": 51.2667,
+      "lon": 7.1833
+    },
+    {
+      "nombre": "Málaga, Spain",
+      "lat": 36.7167,
+      "lon": -4.4167
+    },
+    {
+      "nombre": "Bielefeld, Germany",
+      "lat": 52.0167,
+      "lon": 8.5333
+    },
+    {
+      "nombre": "Essen, Germany",
+      "lat": 51.4508,
+      "lon": 7.0131
+    },
+    {
+      "nombre": "Bremen, Germany",
+      "lat": 53.0758,
+      "lon": 8.8072
+    },
+    {
+      "nombre": "Antwerp, Belgium",
+      "lat": 51.2206,
+      "lon": 4.4003
+    },
+    {
+      "nombre": "Genoa, Italy",
+      "lat": 44.4072,
+      "lon": 8.934
+    },
+    {
+      "nombre": "Braunschweig, Germany",
+      "lat": 52.2692,
+      "lon": 10.5211
+    },
+    {
+      "nombre": "Palma, Spain",
+      "lat": 39.5667,
+      "lon": 2.6497
+    },
+    {
+      "nombre": "Lisbon, Portugal",
+      "lat": 38.7122,
+      "lon": -9.134
+    },
+    {
+      "nombre": "The Hague, Netherlands",
+      "lat": 52.08,
+      "lon": 4.31
+    },
+    {
+      "nombre": "Hannover, Germany",
+      "lat": 52.3744,
+      "lon": 9.7386
+    },
+    {
+      "nombre": "Manchester, United Kingdom",
+      "lat": 53.479,
+      "lon": -2.2452
+    },
+    {
+      "nombre": "Poznań, Poland",
+      "lat": 52.4083,
+      "lon": 16.9336
+    },
+    {
+      "nombre": "Santa Cruz, Spain",
+      "lat": 28.4667,
+      "lon": -16.25
+    },
+    {
+      "nombre": "Leeds, United Kingdom",
+      "lat": 53.7975,
+      "lon": -1.5436
+    },
+    {
+      "nombre": "Sheffield, United Kingdom",
+      "lat": 53.3808,
+      "lon": -1.4703
+    },
+    {
+      "nombre": "Liverpool, United Kingdom",
+      "lat": 53.4072,
+      "lon": -2.9917
+    },
+    {
+      "nombre": "Duisburg, Germany",
+      "lat": 51.4322,
+      "lon": 6.7611
+    },
+    {
+      "nombre": "Granada, Spain",
+      "lat": 37.175,
+      "lon": -3.6
+    },
+    {
+      "nombre": "Edinburgh, United Kingdom",
+      "lat": 55.95,
+      "lon": -3.1833
+    },
+    {
+      "nombre": "Gdańsk, Poland",
+      "lat": 54.3483,
+      "lon": 18.654
+    },
+    {
+      "nombre": "Rouen, France",
+      "lat": 49.4431,
+      "lon": 1.1025
+    },
+    {
+      "nombre": "Worthing, United Kingdom",
+      "lat": 50.8147,
+      "lon": -0.3714
+    },
+    {
+      "nombre": "Leicester, United Kingdom",
+      "lat": 52.6361,
+      "lon": -1.1331
+    },
+    {
+      "nombre": "Zürich, Switzerland",
+      "lat": 47.3744,
+      "lon": 8.5411
+    },
+    {
+      "nombre": "Piraeus, Greece",
+      "lat": 37.943,
+      "lon": 23.6469
+    },
+    {
+      "nombre": "Aves, Portugal",
+      "lat": 41.4423,
+      "lon": -8.2967
+    },
+    {
+      "nombre": "Brno, Czechia",
+      "lat": 49.1953,
+      "lon": 16.6083
+    },
+    {
+      "nombre": "Barnet, United Kingdom",
+      "lat": 51.6444,
+      "lon": -0.1997
+    },
+    {
+      "nombre": "Bologna, Italy",
+      "lat": 44.4939,
+      "lon": 11.3428
+    },
+    {
+      "nombre": "Szczecin, Poland",
+      "lat": 53.4247,
+      "lon": 14.5553
+    },
+    {
+      "nombre": "Newham, United Kingdom",
+      "lat": 51.5275,
+      "lon": 0.0361
+    },
+    {
+      "nombre": "Tampere, Finland",
+      "lat": 61.4981,
+      "lon": 23.76
+    },
+    {
+      "nombre": "Bochum, Germany",
+      "lat": 51.4833,
+      "lon": 7.2167
+    },
+    {
+      "nombre": "Alicante, Spain",
+      "lat": 38.3453,
+      "lon": -0.4831
+    },
+    {
+      "nombre": "Coventry, United Kingdom",
+      "lat": 52.4081,
+      "lon": -1.5106
+    },
+    {
+      "nombre": "Caerdydd, United Kingdom",
+      "lat": 51.4817,
+      "lon": -3.1792
+    },
+    {
+      "nombre": "Florence, Italy",
+      "lat": 43.7714,
+      "lon": 11.2542
+    },
+    {
+      "nombre": "Utrecht, Netherlands",
+      "lat": 52.0908,
+      "lon": 5.1217
+    },
+    {
+      "nombre": "Freiburg im Breisgau, Germany",
+      "lat": 47.995,
+      "lon": 7.85
+    },
+    {
+      "nombre": "Brent, United Kingdom",
+      "lat": 51.5583,
+      "lon": -0.2668
+    },
+    {
+      "nombre": "Belfast, United Kingdom",
+      "lat": 54.5967,
+      "lon": -5.93
+    },
+    {
+      "nombre": "Malmö, Sweden",
+      "lat": 55.5833,
+      "lon": 13.0
+    },
+    {
+      "nombre": "Reading, United Kingdom",
+      "lat": 51.4542,
+      "lon": -0.9731
+    },
+    {
+      "nombre": "Bonn, Germany",
+      "lat": 50.7353,
+      "lon": 7.1022
+    },
+    {
+      "nombre": "Lublin, Poland",
+      "lat": 51.25,
+      "lon": 22.5667
+    },
+    {
+      "nombre": "Tower Hamlets, United Kingdom",
+      "lat": 51.5163,
+      "lon": -0.0362
+    },
+    {
+      "nombre": "Debrecen, Hungary",
+      "lat": 47.53,
+      "lon": 21.6392
+    },
+    {
+      "nombre": "Espoo, Finland",
+      "lat": 60.2056,
+      "lon": 24.6556
+    },
+    {
+      "nombre": "Bydgoszcz, Poland",
+      "lat": 53.1167,
+      "lon": 18.0
+    },
+    {
+      "nombre": "Münster, Germany",
+      "lat": 51.9625,
+      "lon": 7.6256
+    },
+    {
+      "nombre": "Hillingdon, United Kingdom",
+      "lat": 51.5329,
+      "lon": -0.455
+    },
+    {
+      "nombre": "Redbridge, United Kingdom",
+      "lat": 51.5827,
+      "lon": 0.0701
+    },
+    {
+      "nombre": "Mannheim, Germany",
+      "lat": 49.4878,
+      "lon": 8.4661
+    },
+    {
+      "nombre": "Bari, Italy",
+      "lat": 41.1253,
+      "lon": 16.8667
+    },
+    {
+      "nombre": "Southwark, United Kingdom",
+      "lat": 51.4988,
+      "lon": -0.0901
+    },
+    {
+      "nombre": "Kingston upon Hull, United Kingdom",
+      "lat": 53.7444,
+      "lon": -0.3325
+    },
+    {
+      "nombre": "Catania, Italy",
+      "lat": 37.5027,
+      "lon": 15.0873
+    },
+    {
+      "nombre": "Montpellier, France",
+      "lat": 43.6109,
+      "lon": 3.8772
+    },
+    {
+      "nombre": "Karlsruhe, Germany",
+      "lat": 49.0167,
+      "lon": 8.4
+    },
+    {
+      "nombre": "Vila Nova de Gaia, Portugal",
+      "lat": 41.1333,
+      "lon": -8.6167
+    },
+    {
+      "nombre": "Augsburg, Germany",
+      "lat": 48.3689,
+      "lon": 10.8978
+    },
+    {
+      "nombre": "Valladolid, Spain",
+      "lat": 41.652,
+      "lon": -4.7286
+    },
+    {
+      "nombre": "Lewisham, United Kingdom",
+      "lat": 51.461,
+      "lon": -0.005
+    },
+    {
+      "nombre": "Aarhus, Denmark",
+      "lat": 56.1564,
+      "lon": 10.2097
+    },
+    {
+      "nombre": "Newcastle, United Kingdom",
+      "lat": 54.978,
+      "lon": -1.6102
+    },
+    {
+      "nombre": "Finglas, Ireland",
+      "lat": 53.4597,
+      "lon": -6.2181
+    },
+    {
+      "nombre": "Greenwich, United Kingdom",
+      "lat": 51.4728,
+      "lon": 0.053
+    },
+    {
+      "nombre": "Stockport, United Kingdom",
+      "lat": 53.4083,
+      "lon": -2.1494
+    },
+    {
+      "nombre": "Vigo, Spain",
+      "lat": 42.2358,
+      "lon": -8.7267
+    },
+    {
+      "nombre": "Miskolc, Hungary",
+      "lat": 48.1,
+      "lon": 20.7833
+    },
+    {
+      "nombre": "Strasbourg, France",
+      "lat": 48.5733,
+      "lon": 7.7522
+    },
+    {
+      "nombre": "Bradford, United Kingdom",
+      "lat": 53.8,
+      "lon": -1.75
+    },
+    {
+      "nombre": "Graz, Austria",
+      "lat": 47.0708,
+      "lon": 15.4386
+    },
+    {
+      "nombre": "Bergen, Norway",
+      "lat": 60.3925,
+      "lon": 5.3233
+    },
+    {
+      "nombre": "Białystok, Poland",
+      "lat": 53.1324,
+      "lon": 23.1687
+    },
+    {
+      "nombre": "Córdoba, Spain",
+      "lat": 37.8916,
+      "lon": -4.7728
+    },
+    {
+      "nombre": "Nottingham, United Kingdom",
+      "lat": 52.9561,
+      "lon": -1.1512
+    },
+    {
+      "nombre": "Cluj-Napoca, Romania",
+      "lat": 46.7689,
+      "lon": 23.5907
+    },
+    {
+      "nombre": "Orléans, France",
+      "lat": 47.9022,
+      "lon": 1.9042
+    },
+    {
+      "nombre": "Katowice, Poland",
+      "lat": 50.25,
+      "lon": 19.0
+    },
+    {
+      "nombre": "Wiesbaden, Germany",
+      "lat": 50.0825,
+      "lon": 8.24
+    },
+    {
+      "nombre": "Bolton, United Kingdom",
+      "lat": 53.5783,
+      "lon": -2.43
+    },
+    {
+      "nombre": "Ostrava, Czechia",
+      "lat": 49.8356,
+      "lon": 18.2925
+    },
+    {
+      "nombre": "Waltham Forest, United Kingdom",
+      "lat": 51.5928,
+      "lon": -0.0113
+    },
+    {
+      "nombre": "Maastricht, Netherlands",
+      "lat": 50.8667,
+      "lon": 5.6833
+    },
+    {
+      "nombre": "Sunderland, United Kingdom",
+      "lat": 54.906,
+      "lon": -1.381
+    },
+    {
+      "nombre": "Havering, United Kingdom",
+      "lat": 51.5686,
+      "lon": 0.207
+    },
+    {
+      "nombre": "Gent, Belgium",
+      "lat": 51.0536,
+      "lon": 3.7253
+    },
+    {
+      "nombre": "Iaşi, Romania",
+      "lat": 47.1622,
+      "lon": 27.5889
+    },
+    {
+      "nombre": "Gijón, Spain",
+      "lat": 43.5293,
+      "lon": -5.6773
+    },
+    {
+      "nombre": "Mönchengladbach, Germany",
+      "lat": 51.2,
+      "lon": 6.4333
+    },
+    {
+      "nombre": "Plymouth, United Kingdom",
+      "lat": 50.3714,
+      "lon": -4.1422
+    },
+    {
+      "nombre": "Gelsenkirchen, Germany",
+      "lat": 51.5103,
+      "lon": 7.0942
+    },
+    {
+      "nombre": "Milton Keynes, United Kingdom",
+      "lat": 52.04,
+      "lon": -0.76
+    },
+    {
+      "nombre": "Haringey, United Kingdom",
+      "lat": 51.5901,
+      "lon": -0.1074
+    },
+    {
+      "nombre": "Harringay, United Kingdom",
+      "lat": 51.5819,
+      "lon": -0.0994
+    },
+    {
+      "nombre": "Constanţa, Romania",
+      "lat": 44.1733,
+      "lon": 28.6383
+    },
+    {
+      "nombre": "Vitoria-Gasteiz, Spain",
+      "lat": 42.8467,
+      "lon": -2.6731
+    },
+    {
+      "nombre": "Bexley, United Kingdom",
+      "lat": 51.441,
+      "lon": 0.149
+    },
+    {
+      "nombre": "Verona, Italy",
+      "lat": 45.4386,
+      "lon": 10.9928
+    },
+    {
+      "nombre": "Derby, United Kingdom",
+      "lat": 52.9247,
+      "lon": -1.478
+    },
+    {
+      "nombre": "Westminster, United Kingdom",
+      "lat": 51.4947,
+      "lon": -0.1353
+    },
+    {
+      "nombre": "Aachen, Germany",
+      "lat": 50.7762,
+      "lon": 6.0838
+    },
+    {
+      "nombre": "A Coruña, Spain",
+      "lat": 43.3739,
+      "lon": -8.4
+    },
+    {
+      "nombre": "Wolverhampton, United Kingdom",
+      "lat": 52.5833,
+      "lon": -2.1333
+    },
+    {
+      "nombre": "Timişoara, Romania",
+      "lat": 45.7597,
+      "lon": 21.23
+    },
+    {
+      "nombre": "Chemnitz, Germany",
+      "lat": 50.8333,
+      "lon": 12.9167
+    },
+    {
+      "nombre": "Venice, Italy",
+      "lat": 45.4397,
+      "lon": 12.3319
+    },
+    {
+      "nombre": "Cosenza, Italy",
+      "lat": 39.3,
+      "lon": 16.25
+    },
+    {
+      "nombre": "Kiel, Germany",
+      "lat": 54.3233,
+      "lon": 10.1394
+    },
+    {
+      "nombre": "Vantaa, Finland",
+      "lat": 60.2944,
+      "lon": 25.0403
+    },
+    {
+      "nombre": "Abertawe, United Kingdom",
+      "lat": 51.6167,
+      "lon": -3.95
+    },
+    {
+      "nombre": "Elche, Spain",
+      "lat": 38.2669,
+      "lon": -0.6983
+    },
+    {
+      "nombre": "Gdynia, Poland",
+      "lat": 54.5175,
+      "lon": 18.54
+    },
+    {
+      "nombre": "Barnsley, United Kingdom",
+      "lat": 53.5547,
+      "lon": -1.4791
+    },
+    {
+      "nombre": "Stoke-on-Trent, United Kingdom",
+      "lat": 53.0255,
+      "lon": -2.1761
+    },
+    {
+      "nombre": "Harssens, Netherlands",
+      "lat": 53.2642,
+      "lon": 6.5431
+    },
+    {
+      "nombre": "Eindhoven, Netherlands",
+      "lat": 51.4344,
+      "lon": 5.4842
+    },
+    {
+      "nombre": "Halle, Germany",
+      "lat": 51.4828,
+      "lon": 11.9697
+    },
+    {
+      "nombre": "Stavanger, Norway",
+      "lat": 58.97,
+      "lon": 5.7314
+    },
+    {
+      "nombre": "Magdeburg, Germany",
+      "lat": 52.1316,
+      "lon": 11.64
+    },
+    {
+      "nombre": "Szeged, Hungary",
+      "lat": 46.25,
+      "lon": 20.1667
+    },
+    {
+      "nombre": "Braşov, Romania",
+      "lat": 45.6522,
+      "lon": 25.6106
+    },
+    {
+      "nombre": "Sandnes, Norway",
+      "lat": 58.85,
+      "lon": 5.7333
+    },
+    {
+      "nombre": "Craiova, Romania",
+      "lat": 44.3333,
+      "lon": 23.8167
+    },
+    {
+      "nombre": "Groningen, Netherlands",
+      "lat": 53.2167,
+      "lon": 6.5667
+    },
+    {
+      "nombre": "Tarrasa, Spain",
+      "lat": 41.5611,
+      "lon": 2.0081
+    },
+    {
+      "nombre": "Badalona, Spain",
+      "lat": 41.4333,
+      "lon": 2.2333
+    },
+    {
+      "nombre": "Rennes, France",
+      "lat": 48.1142,
+      "lon": -1.6808
+    },
+    {
+      "nombre": "Tilburg, Netherlands",
+      "lat": 51.5572,
+      "lon": 5.0911
+    },
+    {
+      "nombre": "Barking and Dagenham, United Kingdom",
+      "lat": 51.5433,
+      "lon": 0.1294
+    },
+    {
+      "nombre": "Krefeld, Germany",
+      "lat": 51.3333,
+      "lon": 6.5667
+    },
+    {
+      "nombre": "Sabadell, Spain",
+      "lat": 41.5483,
+      "lon": 2.1075
+    },
+    {
+      "nombre": "Oviedo, Spain",
+      "lat": 43.3625,
+      "lon": -5.8503
+    },
+    {
+      "nombre": "Mainz, Germany",
+      "lat": 49.9994,
+      "lon": 8.2736
+    },
+    {
+      "nombre": "Cork, Ireland",
+      "lat": 51.9,
+      "lon": -8.4731
+    },
+    {
+      "nombre": "Swindon, United Kingdom",
+      "lat": 51.56,
+      "lon": -1.78
+    },
+    {
+      "nombre": "Cartagena, Spain",
+      "lat": 37.6019,
+      "lon": -0.9842
+    },
+    {
+      "nombre": "Lübeck, Germany",
+      "lat": 53.8697,
+      "lon": 10.6864
+    },
+    {
+      "nombre": "Messina, Italy",
+      "lat": 38.1936,
+      "lon": 15.5542
+    }
+  ],
+  "Monumentos": [
+    {
+      "nombre": "Parque Nacional Yellowstone",
+      "lat": 44.6,
+      "lon": -110.5
+    },
+    {
+      "nombre": "Vesubio",
+      "lat": 40.82261,
+      "lon": 14.42919
+    },
+    {
+      "nombre": "Avenida de los Campos Elíseos",
+      "lat": 48.873464,
+      "lon": 2.3197
+    },
+    {
+      "nombre": "Capilla Sixtina",
+      "lat": 41.903055555556,
+      "lon": 12.454444444444
+    },
+    {
+      "nombre": "Palacio de Versalles",
+      "lat": 48.804722222222,
+      "lon": 2.1202777777778
+    },
+    {
+      "nombre": "Notre-Dame de París",
+      "lat": 48.853,
+      "lon": 2.3498
+    },
+    {
+      "nombre": "Palacio de Verano",
+      "lat": 39.9975,
+      "lon": 116.2689
+    },
+    {
+      "nombre": "Neuschwanstein",
+      "lat": 47.557488542843,
+      "lon": 10.74944180794
+    },
+    {
+      "nombre": "Catedral de Colonia",
+      "lat": 50.941388888889,
+      "lon": 6.9583333333333
+    },
+    {
+      "nombre": "conjunto de templos de Mahabodhi",
+      "lat": 24.696004,
+      "lon": 84.991358
+    },
+    {
+      "nombre": "Plaza de Naqsh-e Yahán",
+      "lat": 32.658222222222,
+      "lon": 51.677333333333
+    },
+    {
+      "nombre": "Parque nacional de Komodo",
+      "lat": -8.651625,
+      "lon": 119.576569
+    },
+    {
+      "nombre": "Choga Zanbil",
+      "lat": 32.008333333333,
+      "lon": 48.520833333333
+    },
+    {
+      "nombre": "Ghats occidentales",
+      "lat": 10.169722222222,
+      "lon": 77.061111111111
+    },
+    {
+      "nombre": "Muro de Berlín",
+      "lat": 52.504444444444,
+      "lon": 13.441111111111
+    },
+    {
+      "nombre": "Baikal",
+      "lat": 53.30277778,
+      "lon": 108.00472222
+    },
+    {
+      "nombre": "Istmo de Curlandia",
+      "lat": 55.274444444444,
+      "lon": 20.970833333333
+    },
+    {
+      "nombre": "Mohenjo-Daro",
+      "lat": 27.329166666667,
+      "lon": 68.138888888889
+    },
+    {
+      "nombre": "Palmira",
+      "lat": 34.56,
+      "lon": 38.269791
+    },
+    {
+      "nombre": "Petra",
+      "lat": 30.328888888889,
+      "lon": 35.441944
+    },
+    {
+      "nombre": "Chichén Itzá",
+      "lat": 20.683055555556,
+      "lon": -88.568611111111
+    },
+    {
+      "nombre": "Catedral de Aquisgrán",
+      "lat": 50.77475,
+      "lon": 6.0839222222222
+    },
+    {
+      "nombre": "Abadía de Westminster",
+      "lat": 51.4994,
+      "lon": -0.127367
+    },
+    {
+      "nombre": "macizo de Altái",
+      "lat": 49.0,
+      "lon": 89.0
+    },
+    {
+      "nombre": "Neusiedl",
+      "lat": 47.833333333333,
+      "lon": 16.75
+    },
+    {
+      "nombre": "Kilimanjaro",
+      "lat": -3.0666666666667,
+      "lon": 37.359166666667
+    },
+    {
+      "nombre": "Campo de concentración de Auschwitz",
+      "lat": 50.035833333333,
+      "lon": 19.178333333333
+    },
+    {
+      "nombre": "Gran barrera de coral",
+      "lat": -16.4,
+      "lon": 145.8
+    },
+    {
+      "nombre": "Taj Mahal",
+      "lat": 27.175,
+      "lon": 78.041944444444
+    },
+    {
+      "nombre": "Empire State Building",
+      "lat": 40.748333333333,
+      "lon": -73.985555555556
+    },
+    {
+      "nombre": "Estatua de la Libertad",
+      "lat": 40.689209166667,
+      "lon": -74.044425277778
+    },
+    {
+      "nombre": "Abu Mena",
+      "lat": 30.84105,
+      "lon": 29.66349
+    },
+    {
+      "nombre": "Coliseo",
+      "lat": 41.890277777778,
+      "lon": 12.492222222222
+    },
+    {
+      "nombre": "Partenón",
+      "lat": 37.971527,
+      "lon": 23.726601
+    },
+    {
+      "nombre": "El Pentágono",
+      "lat": 38.870833333333,
+      "lon": -77.055
+    },
+    {
+      "nombre": "One World Trade Center",
+      "lat": 40.713,
+      "lon": -74.0135
+    },
+    {
+      "nombre": "Times Square",
+      "lat": 40.7575,
+      "lon": -73.985833333333
+    },
+    {
+      "nombre": "Potala",
+      "lat": 29.657777777778,
+      "lon": 91.116944444444
+    },
+    {
+      "nombre": "Paseo de la Fama de Hollywood",
+      "lat": 34.1014,
+      "lon": -118.34496666667
+    },
+    {
+      "nombre": "Salar de Uyuni",
+      "lat": -20.33333,
+      "lon": -67.7
+    },
+    {
+      "nombre": "Cristo Redentor",
+      "lat": -22.951915648887,
+      "lon": -43.210464122788
+    },
+    {
+      "nombre": "Ciudad Prohibida",
+      "lat": 39.915833333333,
+      "lon": 116.39083333333
+    },
+    {
+      "nombre": "Salto Ángel",
+      "lat": 5.9700555555556,
+      "lon": -62.536222222222
+    },
+    {
+      "nombre": "Mezquita Azul",
+      "lat": 41.0053851,
+      "lon": 28.9768247
+    },
+    {
+      "nombre": "Puerta de Brandeburgo",
+      "lat": 52.516272222222,
+      "lon": 13.377722222222
+    },
+    {
+      "nombre": "Torres Petronas",
+      "lat": 3.1577777777778,
+      "lon": 101.71166666667
+    },
+    {
+      "nombre": "puente de la Torre",
+      "lat": 51.505555555556,
+      "lon": -0.075277777777778
+    },
+    {
+      "nombre": "Viaducto de Millau",
+      "lat": 44.080277777778,
+      "lon": 3.0225
+    },
+    {
+      "nombre": "Panteón de Agripa",
+      "lat": 41.898611111111,
+      "lon": 12.476944444444
+    },
+    {
+      "nombre": "Tebas",
+      "lat": 25.720555555556,
+      "lon": 32.610277777778
+    },
+    {
+      "nombre": "Ben Nevis",
+      "lat": 56.796891,
+      "lon": -5.003675
+    },
+    {
+      "nombre": "Calzada del Gigante",
+      "lat": 55.240833333333,
+      "lon": -6.5116666666667
+    },
+    {
+      "nombre": "Þingvellir",
+      "lat": 64.258055555556,
+      "lon": -21.125
+    },
+    {
+      "nombre": "Valle de la Muerte",
+      "lat": 36.456938888889,
+      "lon": -116.86528055556
+    },
+    {
+      "nombre": "Puente de Brooklyn",
+      "lat": 40.705666666667,
+      "lon": -73.996333333333
+    },
+    {
+      "nombre": "Templo del Cielo",
+      "lat": 39.8822,
+      "lon": 116.4066
+    },
+    {
+      "nombre": "Lago de Van",
+      "lat": 38.633333333333,
+      "lon": 42.816666666667
+    },
+    {
+      "nombre": "Persépolis",
+      "lat": 29.935,
+      "lon": 52.891389
+    },
+    {
+      "nombre": "Trafalgar Square",
+      "lat": 51.508055555556,
+      "lon": -0.12805555555556
+    },
+    {
+      "nombre": "Catedral de San Basilio",
+      "lat": 55.7525,
+      "lon": 37.623055555556
+    }
+  ]
+}
